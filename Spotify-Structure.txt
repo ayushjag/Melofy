@@ -1,0 +1,24 @@
+ FRONT END
+1. main.jsx->app.jsx
+2. app.jsx->[Sidebar.jsx,Display.jsx,Player.jsx]
+3. Display.jsx -> route Path DisplayHome.jsx , route Path DisplayAlbum.jsx	
+4. DisplayHome.jsx ->[Navbar.jsx,AlbumItem.jsx,SongItem.jsx]
+5. DisplayAlbum.jsx -> Navbar.jsx
+
+
+
+
+
+
+
+
+
+
+
+
+[context]->PlayerContext.jsx(contains usecontext and other logics and functionality)
+
+
+
+
+BACKEND

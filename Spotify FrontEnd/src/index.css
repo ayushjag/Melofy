@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+::-webkit-scrollbar{
+    display:none;
+}
+.gb{
+    color:blue;
+}
+.green-filter {
+    filter: invert(48%) sepia(92%) saturate(624%) hue-rotate(89deg) brightness(95%) contrast(101%);
+}
